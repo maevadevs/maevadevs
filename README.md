@@ -37,11 +37,13 @@
 
 I am data developer of origin from Madagascar. 
 
+<!--
 I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
 
 Having worked with computer networks, databases, and reportings for years, I wanted to understand more about how we could use data and technologies to discover opportunities for solving problems. This has led me to pursue Data Engineering, Data Science, and Machine Learning.
 
 I am looking forward to digging deeper into this vast field.
+-->
 
 - 🌱 I'm currently learning Advanced SQL, Graph Databases, Power BI, and more Machine Learning techniques.
 - 👯 I’'m looking to collaborate on Kaggle projects.
