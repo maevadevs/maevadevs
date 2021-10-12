@@ -1,5 +1,7 @@
 <!-- Banner picture -->
+<!--
 <img src="images/banner.jfif">
+-->
 
 ---
 <h1 align="center"> Hi there, I'm Maeva Ralafiarindaza 👋</h1>
