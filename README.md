@@ -7,16 +7,6 @@
 <h1 align="center"> Hi there, I'm Maeva Ralafiarindaza 👋</h1>
 
 <p align="center">
-    <!--LinkedIn-->
-    <a href="https://www.linkedin.com/in/maevaralafiarindaza" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <!--Codewars-->
-    <a href="https://www.codewars.com/users/maevadevs" target="_blank">
-        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-    </a>
-</p>
-<p align="center">
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     </a>
