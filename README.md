@@ -18,6 +18,6 @@ I am looking forward to digging deeper into this vast field.
 
 <!-- Banner picture -->
 <figure>
-    <figcaption style="text-align: left; color: #ccc;">Powered by <a href="https://codersrank.io" style="text-align: left; color: #aaa;">codersrank.io</a></figcaption>
-    <img src="images/tech-skills.png">
+    <figcaption style="text-align: left; color: #ccc;">Powered by <a href="https://profile.codersrank.io/user/maevadevs" style="text-align: left; color: #aaa;">codersrank.io</a></figcaption>
+    <a href="https://profile.codersrank.io/user/maevadevs"><img src="images/tech-skills.png"></a>
 </figure>
