@@ -4,7 +4,7 @@
 ---
 <h1 align="center"> Hi there, I'm Maeva Ralafiarindaza 👋</h1>
 
-I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
+I am data developer of origin from Madagascar. I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
 
 Having worked with computer networks, databases, and reportings for years, I wanted to understand more about how we could use data and technologies to discover opportunities for solving problems. This has led me to pursue Data Engineering, Data Science, and Machine Learning.
 
