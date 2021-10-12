@@ -2,7 +2,7 @@
 <img src="images/banner.jfif">
 
 ---
-<h1 style="text-align: center;"> Hi there, I'm Maeva Ralafiarindaza 👋</h1>
+<h1 align="center"> Hi there, I'm Maeva Ralafiarindaza 👋</h1>
 
 I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
 
