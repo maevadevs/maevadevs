@@ -50,7 +50,25 @@ I am looking forward to digging deeper into this vast field.
 
 - 🌱 I'm currently learning Advanced SQL, Graph Databases, Power BI, and more Machine Learning techniques.
 - 👯 I’'m looking to collaborate on Kaggle projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maevaralafiarindaza), [Twitter](https://twitter.com/maevaralafi), [Kaggle](https://www.kaggle.com/maevaralafi), [Stackoverflow](https://stackexchange.com/users/9569098/maevadevs), [Blog](http://maevadevs.github.io)
+- 📫 How to reach me:
+    <a href="https://www.linkedin.com/in/maevaralafiarindaza" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/maevaralafi" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.kaggle.com/maevaralafi" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+    </a>
+    <a href="https://stackexchange.com/users/9569098/maevadevs" target="_blank">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    </a>
+    <a href="http://maevadevs.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.codewars.com/users/maevadevs" target="_blank">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+    </a>
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube.
 
