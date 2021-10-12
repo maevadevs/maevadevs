@@ -21,15 +21,6 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-
-
-
-
-
-
-
-
 </p>
 
 
@@ -52,9 +43,6 @@ I am looking forward to digging deeper into this vast field.
     <img src="https://github-readme-stats.vercel.app/api?username=maevadevs" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=maevadevs" />
 </figure>
-
----
-
 <!-- Tech Skills CodersRank -->
 <figure align="center">
     <a href="https://profile.codersrank.io/user/maevadevs"><img src="images/tech-skills.png"></a>
