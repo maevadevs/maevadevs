@@ -15,3 +15,9 @@ I am looking forward to digging deeper into this vast field.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maevaralafiarindaza), [Twitter](https://twitter.com/maevaralafi), [Kaggle](https://www.kaggle.com/maevaralafi), [Stackoverflow](https://stackexchange.com/users/9569098/maevadevs), [Blog](http://maevadevs.github.io)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube.
+
+<!-- Banner picture -->
+<figure>
+    <figcaption style="text-align: left; color: #ccc;">Powered by <a href="https://codersrank.io" style="text-align: left; color: #aaa;">codersrank.io</a></figcaption>
+    <img src="images/tech-skills.png">
+</figure>
