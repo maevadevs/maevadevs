@@ -23,6 +23,9 @@
     <a href="https://www.r-project.org/" target="_blank">
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     </a>
+    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+    </a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     </a>
