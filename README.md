@@ -38,7 +38,7 @@
 </p>
 
 
-I am data developer of origin from Madagascar. 
+I am data engineer of origin from Madagascar. 
 
 <!--
 I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
