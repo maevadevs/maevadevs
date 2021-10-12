@@ -40,7 +40,9 @@ I am looking forward to digging deeper into this vast field.
 
 - 🌱 I'm currently learning Advanced SQL, Graph Databases, Power BI, and more Machine Learning techniques.
 - 👯 I’'m looking to collaborate on Kaggle projects.
-- 📫 How to reach me:
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube.
+- 📫 How to connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/maevaralafiarindaza" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -61,11 +63,9 @@ I am looking forward to digging deeper into this vast field.
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
     </a>
 </p>
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube.
 
 
-    <!--Github Stats-->
+<!--Github Stats-->
 
 <figure align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=maevadevs" />
