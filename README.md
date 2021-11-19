@@ -9,27 +9,33 @@
 <h2>My Typical Tech Stack</h2>
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+        <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=3F7CAD" />
     </a>
     <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-fff?style=for-the-badge&logo=r&logoColor=2165B6" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=2F74C0" />
     </a>
     <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/NodeJS-fff?style=for-the-badge&logo=nodedotjs&logoColor=3B7F3A" />
     </a>
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-fff?style=for-the-badge&logo=PowerShell&logoColor=0177BD" />
     </a>
 </p>
 <p align="center">
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-fff?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=C70C16" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=336791" />
     </a>
     <a href="https://www.teradata.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Teradata-364750?style=for-the-badge&logo=teradata&logoColor=white" />
+        <img src="https://img.shields.io/badge/Teradata-fff?style=for-the-badge&logo=teradata&logoColor=37414A" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=449A45" />
     </a>
 </p>
 
