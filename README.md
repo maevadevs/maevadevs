@@ -4,7 +4,7 @@
 -->
 
 ---
-<h1 align="center"> Hi there, I'm Maeva Ralafiarindaza 👋</h1>
+<h1 align="center"> Hi there! 👋 I'm Maeva Ralafiarindaza</h1>
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
