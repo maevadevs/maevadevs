@@ -14,20 +14,22 @@
     <a href="https://www.r-project.org/" target="_blank">
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </a>
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
     </a>
-    <a href="https://www.teradata.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Teradata-364750?style=for-the-badge&logo=teradata&logoColor=white" />
-    </a>
+</p>
+<p align="center">
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <a href="https://www.teradata.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Teradata-364750?style=for-the-badge&logo=teradata&logoColor=white" />
     </a>
 </p>
 
