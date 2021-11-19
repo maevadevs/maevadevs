@@ -38,7 +38,7 @@ Having worked with computer networks, databases, and reportings for years, I wan
 I am looking forward to digging deeper into this vast field.
 -->
 
-- 🌱 I'm currently learning Advanced SQL, Graph Databases, Machine Learning techniques, and working on a VS Code Extension
+- 🌱 I'm currently learning Advanced SQL, Graph Databases, Machine Learning techniques, and working on VS Code Extensions for Data Development
 - 👯 I’'m looking to collaborate on Kaggle projects and on building helpful data tools
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube.
