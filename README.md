@@ -6,6 +6,7 @@
 ---
 <h1 align="center"> Hi there! 👋 I'm Maeva Ralafiarindaza</h1>
 
+<h2>My Typical Tech Stack</h2>
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
@@ -15,6 +16,9 @@
     </a>
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+    </a>
+    <a href="https://www.teradata.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Teradata-364750?style=for-the-badge&logo=teradata&logoColor=white" />
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
@@ -27,7 +31,7 @@
     </a>
 </p>
 
-
+<h2>About Me</h2>
 I am data engineer of origin from Madagascar. 
 
 <!--
