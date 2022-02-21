@@ -84,9 +84,11 @@ I am looking forward to digging deeper into this vast field.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=maevadevs" />
 </figure>
 <!-- Tech Skills CodersRank -->
+<!--
 <figure align="center">
     <a href="https://profile.codersrank.io/user/maevadevs"><img src="images/tech-skills.png"></a>
     <figcaption style="color: #ccc;">
         Powered by <a href="https://profile.codersrank.io/user/maevadevs" style="color: #aaa;">codersrank.io</a>
     </figcaption>
 </figure>
+-->
