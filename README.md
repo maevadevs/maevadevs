@@ -76,12 +76,15 @@ I am looking forward to digging deeper into this vast field.
     </a>
 </p>
 
-
 <!--Github Stats-->
-
+<h2>Github Stats</h2>
 <figure align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=maevadevs" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maevadevs" />
+    <span>
+        <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=true&&hide=prs,contribs" />
+    </span>
+    <span>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=maevadevs" />
+    </span>
 </figure>
 <!-- Tech Skills CodersRank -->
 <!--
