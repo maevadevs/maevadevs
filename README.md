@@ -81,6 +81,7 @@ I am looking forward to digging deeper into this vast field.
 </p>
 
 <!--Github Stats-->
+<!--
 <h2>Github Stats</h2>
 <figure align="center">
     <span>
