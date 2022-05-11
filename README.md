@@ -6,6 +6,10 @@
 ---
 <h1 align="center"> Hi there! 👋 I'm Maeva Ralafiarindaza</h1>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=maevadevs&theme=onedark" />
+</div>
+    
 <h2>About Me</h2>
 I am data engineer of origin from Madagascar. 
 
