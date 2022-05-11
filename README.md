@@ -82,7 +82,7 @@ I am looking forward to digging deeper into this vast field.
 
 <!--Github Stats-->
 
-<h2>Github Stats</h2>
+<h2>Stats and Fun Facts</h2>
 <div align="center">
     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=false&hide=contribs&theme=dark" />
