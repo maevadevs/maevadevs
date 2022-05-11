@@ -10,8 +10,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=maevadevs&theme=onedark" />
 </div>
     
-<h2>About Me</h2>
-I am data engineer of origin from Madagascar. 
+<h2 align="center">About Me</h2>
+<p align="center">I am data engineer of origin from Madagascar.</p>
 
 <!--
 I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
@@ -21,11 +21,30 @@ Having worked with computer networks, databases, and reportings for years, I wan
 I am looking forward to digging deeper into this vast field.
 -->
 
-- 🌱 I'm constantly learning Advanced Programming Concepets, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools
-- 👯 I’'m looking to collaborate on Kaggle projects and on building helpful data tools
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube.
-- 📫 How to connect with me:
+<table>
+    <tr>
+        <td><p align="center">🌱</p></td>
+        <td>I'm constantly learning Advanced Programming Concepets, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
+    </tr>
+    <tr>
+        <td><p align="center">👯</p></td>
+        <td>I'm looking to collaborate on Kaggle projects and on building helpful data tools</td>
+    </tr>
+    <tr>
+        <td><p align="center">😄</p></td>
+        <td>Pronouns: He/Him/His</td>
+    </tr>
+    <tr>
+        <td><p align="center">⚡</p></td>
+        <td>Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube</td>
+    </tr>
+    <tr>
+        <td><p align="center">🌱</p></td>
+        <td>I'm constantly learning Advanced Programming Concepets, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
+    </tr>
+</table>
+
+<h2 align="center">How to Connect With Me</h2> 
 <p align="center">
     <a href="https://www.linkedin.com/in/maevaralafiarindaza" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,7 +66,7 @@ I am looking forward to digging deeper into this vast field.
     </a>
 </p>
 
-<h2>My Typical Tech Stack</h2>
+<h2 align="center">My Typical Tech Stack</h2>
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=3F7CAD" />
@@ -82,7 +101,7 @@ I am looking forward to digging deeper into this vast field.
 
 <!--Github Stats-->
 
-<h2>Stats and Fun Facts</h2>
+<h2 align="center">Stats and Fun Facts</h2>
 <div align="center">
     <span>
         <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&cover_image=false&theme=default&bar_color=da5b0b&bar_color_cover=false" />
