@@ -40,7 +40,7 @@ I am looking forward to digging deeper into this vast field.
     </tr>
     <tr>
         <td><p align="center">🌱</p></td>
-        <td>I'm constantly learning Advanced Programming Concepets, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
+        <td>I'm constantly learning Advanced Programming Concepts, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
     </tr>
 </table>
 
