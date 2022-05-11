@@ -85,7 +85,7 @@ I am looking forward to digging deeper into this vast field.
 <h2>Github Stats</h2>
 <figure align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=true&&hide=contribs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=true&&hide=contribs&&theme=onedark" />
     </span>
     <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maevadevs&layout=compact&langs_count=6&hide=Rich%20Text%20Format" />
