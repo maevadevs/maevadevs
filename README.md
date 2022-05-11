@@ -88,6 +88,9 @@ I am looking forward to digging deeper into this vast field.
         <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&cover_image=false&theme=default&bar_color=da5b0b&bar_color_cover=false" />
     </span>
     <span>
+        <img src="https://readme-jokes.vercel.app/api?bgColor=%23151515&qColor=%2353B14F&aColor=%23FA8B00&borderColor=%23151515" alt="Jokes Card" />
+    </span>    
+    <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maevadevs&layout=compact&langs_count=6&hide=Rich%20Text%20Format&theme=dark" />
     </span>
     <span>
