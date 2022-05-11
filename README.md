@@ -85,16 +85,16 @@ I am looking forward to digging deeper into this vast field.
 <h2>Stats and Fun Facts</h2>
 <div align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=false&hide=contribs&theme=dark" />
+        <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&cover_image=false&theme=default&bar_color=da5b0b&bar_color_cover=false" />
     </span>
     <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maevadevs&layout=compact&langs_count=6&hide=Rich%20Text%20Format&theme=dark" />
     </span>
     <span>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=maevadevs&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+        <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=false&hide=contribs&theme=dark" />
     </span>
     <span>
-        <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&cover_image=false&theme=default&bar_color=da5b0b&bar_color_cover=false" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=maevadevs&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
     </span>
 </div>
 <!-- Tech Skills CodersRank -->
