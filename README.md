@@ -18,13 +18,13 @@ I am a logic-driven person, passionate about working with data and technology to
 
 Having worked with computer networks, databases, and reportings for years, I wanted to understand more about how we could use data and technologies to discover opportunities for solving problems. This has led me to pursue Data Engineering, Data Science, and Machine Learning.
 
-I am looking forward to digging deeper into this vast field.
+I am looking forward to dig deeper into this vast field.
 -->
 
 <table>
     <tr>
         <td><p align="center">🌱</p></td>
-        <td>I'm constantly learning Advanced Programming Concepets, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
+        <td>I'm constantly learning Advanced Programming Concepts, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
     </tr>
     <tr>
         <td><p align="center">👯</p></td>
