@@ -38,10 +38,6 @@ I am looking forward to dig deeper into this vast field.
         <td><p align="center">⚡</p></td>
         <td>Fun fact: I like to spend time playing my guitar and piano, sometimes doing recordings of cover songs and posting them on YouTube</td>
     </tr>
-    <tr>
-        <td><p align="center">🌱</p></td>
-        <td>I'm constantly learning Advanced Programming Concepts, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
-    </tr>
 </table>
 
 <h2 align="center">How to Connect With Me</h2> 
