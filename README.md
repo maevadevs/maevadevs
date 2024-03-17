@@ -95,6 +95,41 @@ I am looking forward to dig deeper into this vast field.
     </a>
 </p>
 
+<!--Languages-->
+<h2 align="center">Languages</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,ts,js,powershell,bash,cs,regex,markdown,html,css,sass,svg" />
+  </a>
+</p>
+<!--Framework-->
+<h2 align="center">Framework</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,flask,dotnet,bootstrap,nodejs,npm,react,redux,webpack,gcp,aws,azure,heroku" />
+  </a>
+</p>
+<!--DBs-->
+<h2 align="center">Databases</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+  </a>
+</p>
+<!--Tools-->
+<h2 align="center">Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,ps,postman,visualstudio,vscode,vim" />
+  </a>
+</p>
+<!--OS-->
+<h2 align="center">Systems</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  </a>
+</p>
 <!--Github Stats-->
 
 <h2 align="center">Stats</h2>
