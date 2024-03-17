@@ -6,9 +6,11 @@
 ---
 <h1 align="center"> Hi there! 👋 I'm Maeva Ralafiarindaza</h1>
 
+<!--
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=maevadevs&theme=onedark" />
 </div>
+-->
     
 <h2 align="center">About Me</h2>
 <p align="center">I am data engineer of origin from Madagascar.</p>
@@ -96,38 +98,65 @@ I am looking forward to dig deeper into this vast field.
 </p>
 
 <!--Languages-->
-<h2 align="center">Languages</h2>
+<h4 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,ts,js,powershell,bash,cs,regex,markdown,html,css,sass,svg" />
   </a>
 </p>
 <!--Framework-->
-<h2 align="center">Framework</h2>
+<h4 align="center">Framework</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,fastapi,flask,dotnet,bootstrap,nodejs,npm,react,redux,webpack,gcp,aws,azure,heroku" />
   </a>
 </p>
 <!--DBs-->
-<h2 align="center">Databases</h2>
+<h4 align="center">Databases</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
   </a>
 </p>
 <!--Tools-->
-<h2 align="center">Tools</h2>
+<h4 align="center">Tools</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,ps,postman,visualstudio,vscode,vim" />
+  <a href="https://www.docker.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://git-scm.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=ps" />
+  </a>
+  <a href="https://www.postman.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.vim.org/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=vim" />
   </a>
 </p>
 <!--OS-->
-<h2 align="center">Systems</h2>
+<h4 align="center">Systems</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <a href="https://www.linux.org/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://ubuntu.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
 <!--Github Stats-->
