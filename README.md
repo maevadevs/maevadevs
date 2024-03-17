@@ -24,11 +24,11 @@ I am looking forward to dig deeper into this vast field.
 <table>
     <tr>
         <td><p align="center">🌱</p></td>
-        <td>I'm constantly learning Advanced Programming Concepts, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
+        <td>I'm constantly in the process of learning Advanced Programming Concepts, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
     </tr>
     <tr>
         <td><p align="center">👯</p></td>
-        <td>I'm looking to collaborate on Kaggle projects and on building helpful data tools</td>
+        <td>I'm looking to collaborate on building helpful data tools using Go, Python, and SQL</td>
     </tr>
     <tr>
         <td><p align="center">😄</p></td>
@@ -48,18 +48,18 @@ I am looking forward to dig deeper into this vast field.
     <a href="https://twitter.com/maevaralafi" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://www.kaggle.com/maevaralafi" target="_blank">
+<!--     <a href="https://www.kaggle.com/maevaralafi" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-    </a>
-    <a href="https://stackexchange.com/users/9569098/maevadevs" target="_blank">
+    </a> -->
+<!--     <a href="https://stackexchange.com/users/9569098/maevadevs" target="_blank">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    </a>
+    </a> -->
     <a href="http://maevadevs.github.io" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.codewars.com/users/maevadevs" target="_blank">
+<!--     <a href="https://www.codewars.com/users/maevadevs" target="_blank">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-    </a>
+    </a> -->
 </p>
 
 <h2 align="center">My Typical Tech Stack</h2>
@@ -67,8 +67,8 @@ I am looking forward to dig deeper into this vast field.
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=3F7CAD" />
     </a>
-    <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://img.shields.io/badge/R-fff?style=for-the-badge&logo=r&logoColor=2165B6" />
+    <a href="https://go.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Golang-fff?style=for-the-badge&logo=go&logoColor=2165B6" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=2F74C0" />
@@ -97,20 +97,20 @@ I am looking forward to dig deeper into this vast field.
 
 <!--Github Stats-->
 
-<h2 align="center">Stats and Fun Facts</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
-    <span>
+<!--     <span>
         <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&cover_image=false&theme=default&bar_color=da5b0b&bar_color_cover=false" />
-    </span>
-    <span>
+    </span> -->
+<!--     <span>
         <img src="https://readme-jokes.vercel.app/api?bgColor=%23151515&qColor=%2353B14F&aColor=%23DA5B0B&borderColor=%23151515" alt="Jokes Card" />
-    </span>    
+    </span>     -->
     <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maevadevs&layout=compact&langs_count=6&hide=Rich%20Text%20Format&theme=dark" />
     </span>
-    <span>
+<!--     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=false&hide=contribs&theme=dark" />
-    </span>
+    </span> -->
     <span>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=maevadevs&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
     </span>
