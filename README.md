@@ -6,9 +6,11 @@
 ---
 <h1 align="center"> Hi there! 👋 I'm Maeva Ralafiarindaza</h1>
 
+<!--
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=maevadevs&theme=onedark" />
 </div>
+-->
     
 <h2 align="center">About Me</h2>
 <p align="center">I am data engineer of origin from Madagascar.</p>
@@ -131,24 +133,25 @@ I am looking forward to dig deeper into this vast field.
 <!--   </a> -->
 </p>
 <!--Github Stats-->
-
+<!--
 <h2 align="center">Stats</h2>
 <div align="center">
+-->
 <!--     <span>
         <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=123548121&cover_image=false&theme=default&bar_color=da5b0b&bar_color_cover=false" />
     </span> -->
 <!--     <span>
         <img src="https://readme-jokes.vercel.app/api?bgColor=%23151515&qColor=%2353B14F&aColor=%23DA5B0B&borderColor=%23151515" alt="Jokes Card" />
     </span>     -->
-    <span>
+<!--    <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maevadevs&layout=compact&langs_count=6&hide=Rich%20Text%20Format&theme=dark" />
-    </span>
+    </span> -->
 <!--     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=maevadevs&show_icons=false&hide=contribs&theme=dark" />
     </span> -->
-    <span>
+<!--    <span>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=maevadevs&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-    </span>
+    </span> -->
 </div>
 <!-- Tech Skills CodersRank -->
 <!--
