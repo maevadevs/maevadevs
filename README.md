@@ -13,7 +13,7 @@
 -->
     
 <h2 align="center">About Me</h2>
-<p align="center">I am data engineer of origin from Madagascar.</p>
+<p align="center">Data engineer | Software Engineer | Made in Madagascar | Based in USA</p>
 
 <!--
 I am a logic-driven person, passionate about working with data and technology to solve problems, to help people make informed decisions, and to understand how things work.
@@ -26,11 +26,11 @@ I am looking forward to dig deeper into this vast field.
 <table>
     <tr>
         <td><p align="center">🌱</p></td>
-        <td>I'm constantly in the process of learning Advanced Programming Concepts, Advanced SQL, Graph Databases, Machine Learning techniques, and working on some Data Tools</td>
+        <td>I'm constantly learning Advanced Programming Concepts, Databases, and Data Engineering techniques. I like to build things using Python, Go, and/or Rust</td>
     </tr>
     <tr>
         <td><p align="center">👯</p></td>
-        <td>I'm looking to collaborate on building helpful data tools using Go, Python, and SQL</td>
+        <td>I'm looking to collaborate on building tools using Go, Python, Rust, and SQL</td>
     </tr>
     <tr>
         <td><p align="center">😄</p></td>
