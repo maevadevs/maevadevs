@@ -26,11 +26,11 @@ I am looking forward to dig deeper into this vast field.
 <table>
     <tr>
         <td><p align="center">🌱</p></td>
-        <td>I'm constantly learning Advanced Programming, Databases, and Data Engineering techniques. I like to build things using Python, Go, Rust, and SQL</td>
+        <td>I'm constantly learning Advanced Programming, Databases, and Data Engineering techniques.</td>
     </tr>
     <tr>
         <td><p align="center">👯</p></td>
-        <td>I'm looking to collaborate on building tools using Go, Python, Rust, and SQL</td>
+        <td>I like to build things using Python, Go, Rust, and SQL. I'm interested in collaborating on building tools with them.</td>
     </tr>
     <tr>
         <td><p align="center">😄</p></td>
