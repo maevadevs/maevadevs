@@ -12,7 +12,6 @@
 </div>
 -->
     
-<h2 align="center">About Me</h2>
 <p align="center">Data engineer | Software Engineer | Made in Madagascar 🇲🇬 | Based in USA 🇺🇸</p>
 
 <!--
