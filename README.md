@@ -29,7 +29,7 @@ I am looking forward to dig deeper into this vast field.
     </tr>
     <tr>
         <td><p align="center">👯</p></td>
-        <td>I like to build things using Python, Go, Rust, and SQL. I'm interested in collaborating on building tools with them.</td>
+        <td>I like to build things using Python, Go, Rust, and SQL.</td>
     </tr>
     <tr>
         <td><p align="center">😄</p></td>
