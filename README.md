@@ -35,10 +35,10 @@ I am looking forward to dig deeper into this vast field.
         <td><p align="center">😄</p></td>
         <td>Pronouns: He/Him/His</td>
     </tr>
-    <tr>
+<!--     <tr>
         <td><p align="center">⚡</p></td>
         <td>Fun fact: I like to spend time playing my guitar and piano, sometimes doing cover songs on YouTube</td>
-    </tr>
+    </tr> -->
 </table>
 
 <h2 align="center">How to Connect With Me</h2> 
