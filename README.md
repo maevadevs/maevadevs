@@ -29,7 +29,7 @@ I am looking forward to dig deeper into this vast field.
     </tr>
     <tr>
         <td><p align="center">👯</p></td>
-        <td>I like to build things using Python, Go, Rust, and SQL.</td>
+        <td>I like to build things with Python, Rust, Go, and SQL.</td>
     </tr>
     <tr>
         <td><p align="center">😄</p></td>
@@ -68,6 +68,9 @@ I am looking forward to dig deeper into this vast field.
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=3F7CAD" />
     </a>
+    <a href="https://www.rust-lang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Rust-fff?style=for-the-badge&logo=rust&logoColor=3F7CAD" />
+    </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Golang-fff?style=for-the-badge&logo=go&logoColor=2165B6" />
     </a>
@@ -100,7 +103,7 @@ I am looking forward to dig deeper into this vast field.
 <h2 align="center">Languages</h2>
 <p align="center">
 <!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=python,go,ts,js,powershell,bash,rust,cs,regex,markdown,html,css,sass,svg&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,rust,go,ts,js,powershell,bash,cs,regex,markdown,html,css,sass,svg&perline=7" />
 <!--   </a> -->
 </p>
 <!--Framework-->
