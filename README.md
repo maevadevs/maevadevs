@@ -103,30 +103,30 @@ I am looking forward to dig deeper into this vast field.
 <h2 align="center">Languages</h2>
 <p align="center">
 <!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=python,rust,go,ts,js,powershell,bash,cs,regex,markdown,html,css,sass,svg&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,rust,go,ts,js,powershell,bash,regex,markdown,html,css,sass,svg" />
 <!--   </a> -->
 </p>
 <!--Framework-->
 <h2 align="center">Framework</h2>
 <p align="center">
 <!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,flask,dotnet,bootstrap,nodejs,npm,react,redux,webpack,gcp,aws,azure,heroku&perline=7" />
+    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,flask,bootstrap,nodejs,npm,gcp,aws,azure,heroku" />
 <!--   </a> -->
 </p>
 <!--DBs-->
 <h2 align="center">Databases</h2>
 <p align="center">
 <!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
 <!--   </a> -->
 </p>
 <!--Tools-->
-<h2 align="center">Tools</h2>
+<!-- <h2 align="center">Tools</h2>
 <p align="center">
 <!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=docker,git,github,ps,postman,visualstudio,vscode,vim&perline=8" />
+    <!-- <img src="https://skillicons.dev/icons?i=docker,git,github,ps,postman,visualstudio,vscode,vim&perline=8" /> -->
 <!--   </a> -->
-</p>
+<!-- </p> -->
 <!--OS-->
 <h2 align="center">Systems</h2>
 <p align="center">
